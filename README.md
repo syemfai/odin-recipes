@@ -8,3 +8,7 @@ Upon clicking on the links, which will bring them to a different webpage, they w
 In this lesson, I will be demonstrating my ability to parse coherent HTML code and hopefully design a cogent website that is easily readable for the users. 
 
 *Note: CSS will not be used here and therefore the website will be lacking in flavour. Hopefully the food won't be ;)
+
+Have a look!:
+
+https://syemfai.github.io/odin-recipes/
