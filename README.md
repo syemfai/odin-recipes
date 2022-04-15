@@ -14,4 +14,4 @@ Have a look!:
 https://syemfai.github.io/odin-recipes/
 
 *Issues arising from merging divergence has been resolved 15/4/2022.
-This was done by using git pull and following the steps (involved rebase), and then git commmit. Lastly git push origin main.
+This was done by using git pull and following the steps (involved rebase), and then git commit. Lastly git push origin main.
